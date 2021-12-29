@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ub74/cFbK1QQQ6zRwbbSTIxBkEiglOSwoTDUT4Sc3uhv0D8qw29QScOPljIYxQILPb3WCK7lNrvTvTE+2nTUSg==",
+  "success": true,
+  "projectFilePath": "C:\\CODES\\DaycareManagementSystem\\Codes\\DaycareManagementSystem\\DMSWeb\\DMSWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\markt.MBMILK\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

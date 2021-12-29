@@ -1,0 +1,14 @@
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\bin\Debug\net6.0\DMSClassLibrary.deps.json
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\bin\Debug\net6.0\DMSClassLibrary.dll
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\bin\Debug\net6.0\ref\DMSClassLibrary.dll
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\bin\Debug\net6.0\DMSClassLibrary.pdb
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\obj\Debug\net6.0\DMSClassLibrary.csproj.AssemblyReference.cache
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\obj\Debug\net6.0\DMSClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\obj\Debug\net6.0\DMSClassLibrary.AssemblyInfoInputs.cache
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\obj\Debug\net6.0\DMSClassLibrary.AssemblyInfo.cs
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\obj\Debug\net6.0\DMSClassLibrary.csproj.CoreCompileInputs.cache
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\obj\Debug\net6.0\DMSClassLibrary.dll
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\obj\Debug\net6.0\ref\DMSClassLibrary.dll
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\obj\Debug\net6.0\DMSClassLibrary.pdb
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\obj\Debug\net6.0\DMSClassLibrary.Properties.Resources.resources
+C:\CODES\DaycareManagementSystem\Codes\DaycareManagementSystem\DMSClassLibrary\obj\Debug\net6.0\DMSClassLibrary.csproj.GenerateResource.cache

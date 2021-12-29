@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90611370-b248-448f-8bcb-6a98d0523d23": {
+      "ProjectGuid": "90611370-b248-448f-8bcb-6a98d0523d23",
+      "DisplayName": "DMSWeb",
+      "ColorIndex": 0
+    },
+    "5c236d89-e562-4d31-8eca-c616feba67db": {
+      "ProjectGuid": "5c236d89-e562-4d31-8eca-c616feba67db",
+      "DisplayName": "DMSWebApi",
+      "ColorIndex": 1
+    },
+    "771f18c3-915c-44cf-b9fe-9444ee1a5d4c": {
+      "ProjectGuid": "771f18c3-915c-44cf-b9fe-9444ee1a5d4c",
+      "DisplayName": "Test",
+      "ColorIndex": 2
+    },
+    "25555e89-e36a-40c9-8ac2-c70a6f5dee0e": {
+      "ProjectGuid": "25555e89-e36a-40c9-8ac2-c70a6f5dee0e",
+      "DisplayName": "DMSWebApi",
+      "ColorIndex": 3
+    },
+    "b6908105-9c19-46c1-8e20-639cef9cdac0": {
+      "ProjectGuid": "b6908105-9c19-46c1-8e20-639cef9cdac0",
+      "DisplayName": "DMSClassLibrary",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
