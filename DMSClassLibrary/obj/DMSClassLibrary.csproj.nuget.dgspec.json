@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODES\\DaycareManagementSystem\\Codes\\DaycareManagementSystem\\DMSClassLibrary\\DMSClassLibrary.csproj": {}
+    "C:\\CODES\\DaycareManagementSystem\\Codes\\GitRepo\\DaycareMangementSystem\\DMSClassLibrary\\DMSClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\CODES\\DaycareManagementSystem\\Codes\\DaycareManagementSystem\\DMSClassLibrary\\DMSClassLibrary.csproj": {
+    "C:\\CODES\\DaycareManagementSystem\\Codes\\GitRepo\\DaycareMangementSystem\\DMSClassLibrary\\DMSClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODES\\DaycareManagementSystem\\Codes\\DaycareManagementSystem\\DMSClassLibrary\\DMSClassLibrary.csproj",
+        "projectUniqueName": "C:\\CODES\\DaycareManagementSystem\\Codes\\GitRepo\\DaycareMangementSystem\\DMSClassLibrary\\DMSClassLibrary.csproj",
         "projectName": "DMSClassLibrary",
-        "projectPath": "C:\\CODES\\DaycareManagementSystem\\Codes\\DaycareManagementSystem\\DMSClassLibrary\\DMSClassLibrary.csproj",
+        "projectPath": "C:\\CODES\\DaycareManagementSystem\\Codes\\GitRepo\\DaycareMangementSystem\\DMSClassLibrary\\DMSClassLibrary.csproj",
         "packagesPath": "C:\\Users\\markt.MBMILK\\.nuget\\packages\\",
-        "outputPath": "C:\\CODES\\DaycareManagementSystem\\Codes\\DaycareManagementSystem\\DMSClassLibrary\\obj\\",
+        "outputPath": "C:\\CODES\\DaycareManagementSystem\\Codes\\GitRepo\\DaycareMangementSystem\\DMSClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
@@ -59,6 +63,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

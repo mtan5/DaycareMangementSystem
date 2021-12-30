@@ -14,11 +14,10 @@
 <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-
 <form asp-controller="Admin" asp-action="Authenticate" method="post" class="" id="login_form">
-<div class="screen-1" >  
+<div class="screen-1" >    
   <div class="logo" style="text-align:center; margin-top:2px; margin-bottom:30px;">
-    <img src="~/assets/images/pebbles_logo_2.png" style="width:150px; height:150px;">
+    <img src="~/assets/images/pebbles_logo_2.png" style="width:75px; height:75px;">
   </div>
   <div class="email">
     <label for="email">Username</label>
@@ -35,6 +34,11 @@
       <ion-icon class="show-hide" name="eye-outline"></ion-icon>
     </div>
   </div>
+  
+    @if (!string.IsNullOrEmpty(ViewBag.Message))
+    {
+        <div style="font-size:1.0rem;color:red;">@ViewBag.Message</div> 
+    }
   <button type="submit" class="login">Login </button>
   <!--<button class="login">Login </button>-->
   <div class="footer"><span>Signup</span><span>Forgot Password?</span></div>

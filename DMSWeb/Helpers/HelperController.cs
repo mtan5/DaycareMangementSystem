@@ -4,13 +4,12 @@ namespace DMSWeb.Helpers
 {
     public class HelperController : Controller
     {
-        public IActionResult GoToLogin(string message)
+        public IActionResult GoToLogin(string success="false")
         {
-            ViewBag.Message = message;
-            return RedirectToAction("Login","Admin");
+            return RedirectToAction("Login","Admin", new { access = success});
         }
 
-        public IActionResult GoToHomePage()
+        public IActionResult GoToAdminHomePage()
         {
             return RedirectToAction("Index", "Admin");
         }

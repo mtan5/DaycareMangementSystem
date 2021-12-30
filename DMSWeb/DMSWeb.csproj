@@ -10,8 +10,4 @@
     <ProjectReference Include="..\DMSClassLibrary\DMSClassLibrary.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Helpers\Containers\" />
-  </ItemGroup>
-
 </Project>
